@@ -26,3 +26,14 @@ In this analysis, a logistic model is used to analyze the impacts of many fators
 * `WorkLifeBalance`, `JobSatisfaction`, and `EnvironmentSatisfaction` are the main factors that help reduce the attrition probability
 
 Furthermore, this model is also good for predicting attrition rate with an out-of-sample accuracy of approximately 86 percents. In conclusion, the attrition rate is well explained and predicted by the employed model.
+
+## Detailed documentation
+
+For detailed documentation, please refer to the project repository using the following link:
+
+[Python Project 3 Github](https://github.com/ChinhMaiGit/Project-Python-3/)
+
+or access the analysis workbook directly
+
+[Python Project 3 Workbook](/html/project3.html)
+
