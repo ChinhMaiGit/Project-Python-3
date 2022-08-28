@@ -24,7 +24,7 @@ Reference: [Kaggle HR Analytics Case Study](https://www.kaggle.com/datasets/vjch
 
 ## Executive summary
 
-In this analysis, a logistic model is used to analyze the impacts of many fators on the attrition in order to understand what makes employees quit their job. The analysis employs `numpy`, `pandas`, `statsmodels`, and `plotly` as the main packages and the main steps include importing and wrangling data, linear regression, model validation, and interpretation of the results. The data includes 6 different tables including information about employees and managers as well as their working time, the final table consists of around 4,400 observations and 26 variables. The regression analysis shows that
+In this analysis, a logistic model is used to analyze the impacts of many factors on the attrition in order to understand what makes employees quit their job. The analysis employs `numpy`, `pandas`, `statsmodels`, and `plotly` as the main packages and the main steps include importing and wrangling data, linear regression, model validation, and interpretation of the results. The data includes 6 different tables including information about employees and managers as well as their working time, the final table consists of around 4,400 observations and 26 variables. The regression analysis shows that
 
 * `Average_duration_hr`, `BusinessTravel`, and `JobRole_Research` Director are the main factors that increase the attrition probability
 * `WorkLifeBalance`, `JobSatisfaction`, and `EnvironmentSatisfaction` are the main factors that help reduce the attrition probability
